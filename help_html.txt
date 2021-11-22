@@ -1,0 +1,26 @@
+just a reminder for html :
+- tags should most of the time be open <> then closed </> and contain attributes (e.g. "class=", "src=", "id=", ...). Their roles are diverse, for example the "class" attribute is used to link a content to its style (police style, police size, margin, background color, ...).
+
+- <p></p> is for a paragraph. There won't be any line break inside a paragraph so you should close your <p> and open another one below. You can also use :
+
+- </br> (you don't open this tag) is used for a line break. You can use multiple </br> to skip lines
+
+- Some style can be controlled directly in the html page. Just place the tags around the word(s) you want to modify :
+  - <em></em> is used for italic
+  - <b></b> is used for bold
+  (i.e : <p>This is a phrase with a word in <em>italic</em> and a word in <b>bold</b>.</p>)
+
+- <h1></h1> ... <h6></h6> are used for headers with h1 being the most important header and h6 the least important. It contains text just like a <p> tag. I've used <h2 class="section-heading"> for your pages titles.
+
+- <img class="img img-responsive language" src="img/Portrait_Placeholder.png"> (you don't close this one) adds an image. "src=" points toward the image. I've placed every images in the "img" directory. So to change an image just place your image in this directory and replace "Portrait_Placeholder" by your image name. (IE src="img/YourNewImage.png"). The options may be different for your different pages so don't hesitate to copy a tag from the page you want to add your image to.
+
+- <table></table> adds a table. It goes with the following tags :
+  - <tr></tr> defines a row of data :
+    - <td></td> is a data cell in a row.
+      table :
+        tr(td td td)
+        tr(td td td)
+        tr(td td td)
+      To modify the content of a table, just modify the <td> content. You can either write directly in the <td> tag or add another tag with your content (e.g. a <p> or a <h>)
+
+- <div></div> are divisions of your webpage. They define the layout. Just copy the <div> and its content if you want to duplicate a section.
