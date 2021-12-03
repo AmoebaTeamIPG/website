@@ -1,0 +1,142 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch cerulean Theme: http://bootswatch.com/cerulean/ -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- Smooth scrolling -->
+    <link href="css/scrolling-nav.css" rel="stylesheet">
+    <!-- Jake's awesome css -->
+    <link href="css/base.css" rel="stylesheet">
+  </head>
+
+  <body id="page-top" bgcolor="#e6f2ff">
+    <div class="my-awesome-modal"></div>
+
+    <!-- Navigation bar -->
+	  <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">Amoeba team @ IPG</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li><a id="1" class="page-scroll hide-m" href="home.html">About</a></li>
+            			  <li><a id="2" class="page-scroll hide-m" href="home.html#axes">Research axes</a></li>
+            			  <li><a id="3" class="page-scroll hide-m" href="labMembers.html">Team</a></li>
+             			  <li><a id="4" class="page-scroll hide-m" href="projects.html">Projects</a></li>
+			  	          <li><a id="5" class="page-scroll hide-m" href="publications.html">Publications</a></li>
+                    <li><a href="fr.html"><img src="img/flag-france.png"></a></li>
+                    <li><a href="index.html"><img src="img/flag-usa.png"></a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- 5th page -->
+    <div id="projects" class="page" align="center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <!-- Title -->
+            <h2 class="section-heading">Projects & collaborations</h2><br><br>
+    		  	<table align="center" cellpadding="10" cellspacing="10">
+              <!-- 1st project -->
+              <tr>
+                <!-- Title -->
+                <td>projet1</td>
+                <td>
+                  <!-- name -->
+                  <h4>name</h4>
+                  <!-- text -->
+                  <p>Pellentesque maximus, nisi in tincidunt fringilla, neque metus consectetur sapien, vel mattis lorem magna et quam. Proin id nunc varius, tempus sem in, pellentesque elit. Integer dictum purus neque, sit amet luctus lorem malesuada non. Ut eu scelerisque augue. Maecenas dictum ultrices ipsum ultricies dignissim. Phasellus rutrum arcu in scelerisque dignissim.</p></br></br></br>
+                </td>
+              </tr>
+              <!-- 2nd project -->
+              <tr>
+                <!-- Title -->
+                <td>projet1</td>
+                <td>
+                  <!-- name -->
+                  <h4>name</h4>
+                  <!-- text -->
+                  <p>Pellentesque maximus, nisi in tincidunt fringilla, neque metus consectetur sapien, vel mattis lorem magna et quam. Proin id nunc varius, tempus sem in, pellentesque elit. Integer dictum purus neque, sit amet luctus lorem malesuada non. Ut eu scelerisque augue. Maecenas dictum ultrices ipsum ultricies dignissim. Phasellus rutrum arcu in scelerisque dignissim.</p></br></br></br>
+                </td>
+              </tr>
+              <!-- 3rd project -->
+              <tr>
+                <!-- Title -->
+                <td>projet1</td>
+                <td>
+                  <!-- name -->
+                  <h4>name</h4>
+                  <!-- text -->
+                  <p>Pellentesque maximus, nisi in tincidunt fringilla, neque metus consectetur sapien, vel mattis lorem magna et quam. Proin id nunc varius, tempus sem in, pellentesque elit. Integer dictum purus neque, sit amet luctus lorem malesuada non. Ut eu scelerisque augue. Maecenas dictum ultrices ipsum ultricies dignissim. Phasellus rutrum arcu in scelerisque dignissim.</p></br></br></br>
+                </td>
+              </tr>
+      			</table>
+      		</div>
+       	</div>
+      </div>
+    </div>
+
+    <!-- 7th Page -->
+    <div id="ref5" class="page grey" align="center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center"><br><br>
+            <p class = "text-justify">Pellentesque finibus tempor erat, et ultrices ex dapibus id. Aliquam erat volutpat. Donec tincidunt tortor in fringilla iaculis. Pellentesque maximus, nisi in tincidunt fringilla, neque metus consectetur sapien, vel mattis lorem magna et quam. Proin id nunc varius, tempus sem in, pellentesque elit. Integer dictum purus neque, sit amet luctus lorem malesuada non. Ut eu scelerisque augue. Maecenas dictum ultrices ipsum ultricies dignissim. Phasellus rutrum arcu in scelerisque dignissim.</p>
+  				</div>
+   			</div>
+      </div>
+  	</div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="smooth-scroll.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/scrolling-nav.js"></script>
+    <script>
+    $('document').ready(function(){
+      $('.smooth').on('click', function(){
+        $.smoothScroll({
+            scrollElement: $('body'),
+            scrollTarget: '#page' + this.id
+        });
+        return false;
+      });
+    });
+
+    $('.navbar-toggle').click(function(){
+    	if($('.my-awesome-modal').is(':visible')){
+    		$('.my-awesome-modal').hide();
+    	} else {
+    		$('.my-awesome-modal').show();
+    	}
+    });
+
+    $('.my-awesome-modal').click(function(){
+    	$('.navbar-toggle').click()
+    });
+
+    $('.hide-m').click(function(){
+    	if(window.innerWidth <= 768){
+		$('.navbar-toggle').click();
+	}
+    });
+
+    </script>
+  </body>
+</html>
