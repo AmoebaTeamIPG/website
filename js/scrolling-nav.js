@@ -1,19 +1,14 @@
 //jQuery to collapse the navbar on scroll
-$(window).scroll(function() {
-    if ($(".navbar").offset().top > 50) {
-        $(".navbar-fixed-top").addClass("top-nav-collapse");
-    } else {
-        $(".navbar-fixed-top").removeClass("top-nav-collapse");
+function offsetAnchor() {
+    if(location.hash.length !== 0) {
+        window.scrollTo(window.scrollX, window.scrollY - 100);
     }
-});
+}
 
-//jQuery for page scrolling feature - requires jQuery Easing plugin
-$(function() {
-    $('a.page-scroll').bind('click', function(event) {
-        var $anchor = $(this);
-        $('html, body').stop().animate({
-            scrollTop: $($anchor.attr('href')).offset().top - 50
-        }, 1500, 'easeInOutExpo');
-        event.preventDefault();
-    });
-});
+// This will capture hash changes while on the page
+$(window).on("hashchange", offsetAnchor);
+
+// This is here so that when you enter the page with a hash,
+// it can provide the offset in that case too. Having a timeout
+// seems necessary to allow the browser to jump to the anchor first.
+window.setTimeout(offsetAnchor, 1);
