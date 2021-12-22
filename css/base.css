@@ -40,9 +40,19 @@
     padding: 0px;
 }
 
-tbody tr td {
-padding: 0px 0px 15px 0px!important;
+th{
+  text-align: center;
 }
+
+.table>tbody>tr>td{
+  text-align: left;
+  vertical-align: middle;
+}
+
+.table>thead>tr>th{
+  text-align: center;
+}
+
 .td-date {
     width: 118px;
 }
@@ -268,4 +278,24 @@ h5 {
 
 .img__wrap:hover .img__description {
   transform: translateY(0);
+}
+
+.img-text{
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr.solid {
+    border-top: 2px solid #99999957;;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.former_members{
+  text-align: left;
+}
+
+.text-publi{
+  text-align: left;
 }
