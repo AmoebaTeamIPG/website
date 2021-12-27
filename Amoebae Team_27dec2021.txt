@@ -1,0 +1,187 @@
+IPG Amoebae Team
+
+Recherche axes
+
+Welcome to the IPG Amoebae Team webpage! 
+
+Free-living amoebae (FLA) are ubiquitous protists (unicellular eukaryotes) that can be found in soils and freshwater, feeding on bacteria. Amongst the most common genera of FLA, some can be pathogenic causing encephalitis (Acanthamoeba spp., Balamuthia mandrillaris, Sappinia pedata and Naegleria fowleri). Acanthamoeba spp. can also cause keratitis. The genera Acanthamoeba and Vermamoeba also have medical importance as hosts, vehicles, and training grounds for bacteria.
+
+In France, the first fatal case of infection with N. fowleri was reported in a geothermal bath in Guadeloupe (French West Indies) in 2008. 
+
+Since then, we developed at the Institut Pasteur de Guadeloupe (IPG) 3 major research axes: 
+- Axis 1: Naegleria fowleri biology and pathogenesis.
+- Axis 2: diversity and distribution of FLA.  
+- Axis 3: Services.
+
+
+
+If you want to know more or join us, please contact: IMarcelino@pasteur-guadeloupe.fr
+
+Axis 1 - Naegleria fowleri biology and pathogenesis
+Members of the Naegleria genus belong to the major eukaryotic lineage Heterolobosea. Over 50 recognized species detected, N. fowleri (also called brain-eating amoeba) is the only one being pathogenic to humans, causing a rare but fulminant primary amoebic meningoencephalitis (PAM).
+
+PAM affects mainly healthy children or young adults (Sarink et al. 2021). The infection occurs when contaminated water enters the nose; N. fowleri (specially trophozoites) follows the olfactory nerve to the brain through the cribriform plate. There, it induces phagocytosis of brain material, provoking tissue damage and hemorrhagic necrosis causing a fatal brain infection. The disease progresses rapidly leading to death within 7-12 days (Moseman 2020). Combined with its low incidence (Trabelsi et al. 2012; Siddiqui et al. 2016), early diagnosis is difficult (the PAM symptoms closely resembled bacterial meningitis (Jahangeer et al. 2020); the link with Naegleria is usually made post-mortem by microscopic examination of the cerebral spinal fluid or by quantitative PCR. 
+
+In recent years, an increased number of PAM cases have been reported worldwide, particularly in temperate regions and developing countries; this is probably due to global warming, global overpopulation, and increased industrial activities (Kemble et al., 2012; Siddiqui et al., 2016; Maciver et al., 2020). Despite successful treatment options with miltefosine and other antimicrobial medication (Debnath 2021), the mortality rate is still significant, suggesting the need to find effective therapies (Khan et al., 2021).
+
+To develop improved diagnostic tools and/or provide an early and effective treatment against N. fowleri infection, it is necessary to improve the knowledge on the biology and the pathogenesis of this amoeba.
+
+
+Naegleria fowleri is a remarkable microorganism: 
+(i) it exists in 3 distinct forms, depending on water and food availability (Figure xxxx), 
+
+
+(ii) it survives in different ecosystems (water, soil, air) and occasionally infects animals and Human (Figure xxxxx), 
+
+
+(iii) it uses different sources of nutrients in vivo and in vitro, 
+(iv) exists under different genotypes in the world, 
+(v) can induce asymptomatic infections in humans, 
+and (vi) can harbor pathogenic microorganisms, in particular viruses and bacteria. 
+
+It has also been proved that the degree of virulence of N. fowleri trophozoites can vary depending on the strain and the culture conditions. 
+
+These observations raise many questions such as: Which are the genes associated to virulence? Which genes /proteins are expressed in virulent and “less-virulent” strains? Are N. fowleri strains isolated from the environment genetically different from isolated from humans? 
+
+At the Institut Pasteur de Guadeloupe, we aim to answer to some of these questions, using genomics, transcriptomics, and bioinformatics.   
+
+
+Axis 2 - FLA diversity and distribution:
+Free-living amoebae (FLA) can be found all around the word in natural or man-made environments including wastewater treatment plants, drinking water networks, tap water, hospital water networks, hot springs, swimming pools, rivers, deserts, wet soils, -in- sediments and -in- soil from agricultural and mining sites. Although the incidence of human infections by pathogenic FLA (Acanthamoeba spp., Balamuthia mandrillaris, Sappinia pedata and Naegleria fowleri) is generally low, new cases are being constantly reported worldwide.
+
+In Guadeloupe, after a 9-year-old boy died of PAM in 2008 after swimming in the Dolé geothermal bath of the French West Indies Guadeloupe Island (Nicolas et al. 2010), an investigation on the occurrence and distribution of Naegleria in warm waters was performed in 2011-2012 (Moussa et al. 2013). This survey demonstrated that thermophilic amoebae (in particular Naegleria sp) were often detected (at low concentrations in most) of the warm waters located around the Soufriere volcano. Surprisingly, the baths which appeared to be the most contaminated were not always the dirtiest ones. Further studies performed by our team (Moussa et al. 2015) revealed that the soil near the ponds contains amoebae and thus causes contamination of hot baths. The amoebae would therefore be carried away by the runoff of the rains on the ground, and then brought back towards the bed of the river and carried by the current of hot water towards the basins (Moussa et al. 2015).
+
+In 2020, our team published a study on the diversity and distribution of FLA in the soil of Guadeloupe (Reynaud et al. 2020) using metabarcoding. The results highlighted the presence of several genera of amoebae such as Vermamoeba and Naegleria in a predominant manner. Vermamoeba vermiformis, Acanthamoeba and Naegleria are the most common amoebae in the world (Geisen et al. 2018). This pattern of predominance has also been observed in Guadeloupe.
+
+
+
+Recent preliminary analyzes carried out by our team showed that (i) FLA can be detected in tap water in Guadeloupe and that (ii) Naegleria sp isolated from water can harbor a wide range of bacteria, including some known to be pathogenic to humans. We are now interested in assessing the diversity of FLA (and their bacteriome) in the different catchment, storage and distribution areas of drinking water in Guadeloupe.
+
+3-Services
+This axis is not directly associated with a fundamental research project, but with support to the human health service (ARS, ANSES, CHU) for the detection and identification of amoebae in Guadeloupe (meningitis, keratitis, or others). 
+
+After the first PAM case in Guadeloupe, the Regional Health Agency of Guadeloupe (ARS) implemented bath monitoring and treatment measures to better manage the risk posed by amoebae. The FLA analyses (mainly targeting Naegleria sp) are conducted 3-4 times / year in the most frequented bath in Guadeloupe, as requested by the ARS.
+
+Lab members 
+Aurélie DELUMEAU, M2 student
+I was born in Guadeloupe and I am currently doing a master's in ….. in Université Aix-Marseille (Marseille). I did my Master 1 at IPG and UA and worked on amoeba microsipy. In 2022, for my Master 2, I will study the Naegleria-associted bacteri isolated in Guadeloupe. My Master thesis is funded by the Fondation pour la Recherhe sur la Biodiversité (FRANCE) and is held at both UA and IPG.
+When I'm not in the lab… I enjoy….
+Vincent GUERLAIS, Bioinformatician
+I was born in South of France and have completed a master's in Bioinformatics in Université Côte d'Azur, Nice. During my last internship (IRCAN, Nice), I worked on a transcriptome of the starlet sea anemone (Nematostella vectensis). After a rewarding year in a computer company, I worked on differential expression analysis and gene regulation networks involved in glioblastoma, a brain cancer, in I3S (Sophia-Antipolis). I then spend a few months on big data analysis in the Maison de l'IA (Sophia-Antipolis) for the AI for Health's challenge from the Curie Intitut. Lastly I joined the Institut Pasteur of Guadeloupe in November 2021 as a bioinformatician to work on free-living amoebae's genomics and transcriptomics. I've also developed the IPG Amoebae Team's webpages that you are reading right now! 
+When I'm not in the lab, I enjoy traveling and playing sports. On any given weekend you can find me rock climbing, scuba diving or hiking and enjoying nature.
+Isabel MARCELINO, PhD, HDR
+I was born in France and raised in Portugal. After completing undergraduate studies in Biochemistry at the University de Faro (Algarve, Portugal), I started my PhD in Chemical Engineering at the Animal Cell technology Lab (ITQB/IBET, Oeiras, Portugal). During my PhD thesis, I developed a process at semi-industrial scale for the production, purification, and storage of an inactivated against Heartwater, a tick-borne disease caused by the obligate intracellular bacteria Ehrlichia ruminantium. As I wanted to know more about the mechanisms underlying the bacterium virulence and the bacteria interaction with its host endothelial host cells, I moved to the Mass Spectrometry Lab (ITQB, Oeiras, Portugal). During this post-doc and as a PI of a research project, I focused on identifying differentially expressed proteins in virulent and attenuated E. ruminantium strains, using proteomics. Afterwards, I moved to CIRAD, in Guadeloupe (French West Indies), where I set-up a 2D-DIGE proteomic platform and continued my studies on E. ruminantium-host cells interaction using proteomics. During these 2 years, I was particularly interested in identifying (i) E.ruminantium proteins with phosphorylation and glycosylation patterns potentially associated to virulence and (ii) analyzed the proteins differentially expressed between E.ruminantium-infected and non-infected hosts cells. In December 2016, I joined the Institut Pasteur of Guadeloupe to work on free-living amoebae and in particular on the brain-eating amoeba Naegleria fowleri biology and pathogenesis. At IPG, I belong to the LEMIC and I lead the IPG Amoebae Team. If you want to know more about my career path, you can consult https://orcid.org/0000-0001-5454-8811.
+When I'm not in the lab… I enjoy traveling, dancing, reading and playing with my dog!
+
+
+Youri VINGATARAMIN, PhD student
+I was born in Guadeloupe and I am starting my PhD thesis in at Université des Antilles (Guadeloupe, FWI). I did my Master 2 at IPG on amoeba microsipy and during my PdH thesis  I will study the Naegleria-associted bacteri isolated in Guadeloupe. My PhD thesis is funded by the Region Guadeloupe.
+
+Publications & Book chapters
+
+Free-living amoebae
+1. Reynaud Y, Ducat C, Talarmin A, Marcelino I. (2020) Cartography of Free-Living Amoebae in Soil in Guadeloupe (French West Indies) Using DNA Metabarcoding. Pathogens, doi: 10.3390/pathogens9060440. 
+
+2. Moussa M, Marcelino I, Richard V, Guerlotté J, Talarmin A. (2020) An Optimized Most Probable Number (MPN) Method to Assess the Number of Thermophilic Free-Living Amoebae (FLA) in Water Samples. Pathogens, doi:10.3390/pathogens9050409. 
+
+3. Moussa M, Tissot O, Guerlotté J, De Jonckheere JF, Talarmin A. Soil is the origin for the presence of Naegleria fowleri in the thermal recreational waters. Parasitol Res. 2015 Jan;114(1):311-5. doi: 10.1007/s00436-014-4197-x. 
+
+4. Moussa M, De Jonckheere JF, Guerlotté J, Richard V, Bastaraud A, Romana M, Talarmin A. Survey of Naegleria fowleri in geothermal recreational waters of Guadeloupe (French West Indies). PLoS One. 2013;8(1):e54414. doi: 10.1371/journal.pone.0054414. 
+
+
+E.ruminantium pathogenesis
+5. Pinarello V, Bencurova E, Marcelino I, Gros O, Puech C, Bhide M, Vachiery N, Meyer DF. (2021) Ehrlichia ruminantium uses its transmembrane protein Ape to adhere to host bovine aortic endothelial cells. bioRxiv, doi:10.1101/2021.06.15.447525. 
+ 
+6. Marcelino I, Holzmuller P, Coelho A, Mazzucchelli G, Fernandez B, Vachiéry N. (2021) Revisiting Ehrlichia ruminantium Replication Cycle Using Proteomics: The Host and the Bacterium Perspectives. Microorganisms, doi: 10.3390/microorganisms9061144. 
+
+7. Marcelino I, Colomé-Calls N, Holzmuller P, Lisacek F, Reynaud Y, Canals F, Vachiéry N. (2019) Sweet and Sour Ehrlichia: Glycoproteomics and Phosphoproteomics Reveal New Players in Ehrlichia ruminantium Physiology and Pathogenesis. Front Microbiol, doi: 10.3389/fmicb.2019.00450. 
+
+8. Marcelino I, Holzmuller P, Stachurski F, Rodrigues V, Vachiéry N. (2016) Ehrlichia ruminantium: The Causal Agent of Heartwater. In: Thomas S. (eds) Rickettsiales. Springer, Cham. https://doi.org/10.1007/978-3-319-46859-4_13
+
+9. Marcelino I, Ventosa M, Pires E, Müller M, Lisacek F, Lefrançois T, Vachiery N, Coelho AV. (2015) Comparative Proteomic Profiling of Ehrlichia ruminantium Pathogenic Strain and Its High-Passaged Attenuated Strain Reveals Virulence and Attenuation-Associated Proteins. PLoS One, doi: 10.1371/journal.pone.0145328. 
+
+10. Moumène A, Marcelino I, Ventosa M, Gros O, Lefrançois T, Vachiéry N, Meyer DF, Coelho AV. (2015) Proteomic profiling of the outer membrane fraction of the obligate intracellular bacterial pathogen Ehrlichia ruminantium. PLoS One, doi: 10.1371/journal.pone.0116758. 
+
+11. Pruneau L, Moumène A, Meyer DF, Marcelino I, Lefrançois T, Vachiéry N. (2014) Understanding Anaplasmataceae pathogenesis using "Omics" approaches. Front Cell Infect Microbiol, doi: 10.3389/fcimb.2014.00086. 
+
+12. Vachiéry N, Marcelino I, Martinez D, Lefrançois T. (2014) Manual of Security Sensitive Microbes and Toxins. Chapter 65 - Ehrlichia ruminantium.   In book: Manual of Security Sensitive Microbes and ToxinsChapter: Ehlichia ruminantium. Publisher: Taylor & Francis Group, LLC, Editors: Dongyou Liu, DOI: 10.1201/b16752-72
+
+13. Marcelino I, Ventosa M, Pruneau L, Pires E, Meyer DF, de Almeida AM, Mari B, Lefrançois T, Coelho AV, Vachiéry N. (2013) Omics approaches to study the Rickettsia Ehrlichia ruminantium: towards improved knowledge on Heartwater disease. In: de Almeida A. et al. (eds) Farm animal proteomics 2013. Wageningen Academic Publishers, Wageningen. Doi: 10.3920/978-90-8686-776-9_30.
+
+14. Ventosa M, Marcelino I, Coelho AV, Horlacher O, Lisacek F, Vachiéry N, Lefrançois T (2013) Automatic prediction of PTMs in Ehrlichia ruminantium – creating new datasets for Quickmod analyses. In: de Almeida A. et al. (eds) Farm animal proteomics 2013. Wageningen Academic Publishers, Wageningen. Doi: 10.3920/978-90-8686-776-9_20.
+
+15. Pires E, Marcelino I, Vachiéry N, Lefrançois T, Mazzuchelli G, de Pauw E, Coelho AV. (2013) Changes on bovine aorta endothelial cells (BAE) proteome upon infection with the rickettsia Ehrlichia ruminantium. In: de Almeida A. et al. (eds) Farm animal proteomics 2013. Wageningen Academic Publishers, Wageningen. Doi: 10.3920/978-90-8686-776-9_33
+
+16. Marcelino I, de Almeida AM, Ventosa M, Pruneau L, Meyer DF, Martinez D, Lefrançois T, Vachiéry N, Coelho AV. (2012) Tick-borne diseases in cattle: applications of proteomics to develop new generation vaccines. J Proteomics, doi: 10.1016/j.jprot.2012.03.026. 
+
+17. Marcelino I, de Almeida AM, Brito C, Meyer DF, Barreto M, Sheikboudou C, Franco CF, Martinez D, Lefrançois T, Vachiéry N, Carrondo MJ, Coelho AV, Alves PM. (2012) Proteomic analyses of Ehrlichia ruminantium highlight differential expression of MAP1-family proteins. Vet Microbiol, doi: 10.1016/j.vetmic.2011.11.022. 
+
+18. Pruneau L, Emboulé L, Gely P, Marcelino I, Mari B, Pinarello V, Sheikboudou C, Martinez D, Daigle F, Lefrançois T, Meyer DF, Vachiery N. (2012) Global gene expression profiling of Ehrlichia ruminantium at different stages of development. FEMS Immunol Med Microbiol, doi: 10.1111/j.1574-695X.2011.00901.x. 
+
+Inactivated vaccine production
+
+19. Marcelino I, Chavez A, Gharbi M, Farber M, Holzmuller P, Martinez D, Vachiéry N. Protozoal and Rickettsial Vaccines. In book: Veterinary Vaccines: Principles and Applications, John Wiley & Sons, 2021. Doi: 10.1002/9781119506287.ch7
+
+20. Marcelino I, Lefrançois T, Martinez D, Giraud-Girard K, Aprelon R, Mandonnet N, Gaucheron J, Bertrand F, Vachiéry N. (2015) A user-friendly and scalable process to prepare a ready-to-use inactivated vaccine: the example of heartwater in ruminants under tropical conditions. Vaccine, doi: 10.1016/j.vaccine.2014.11.
+
+21. Vachiéry N, Marcelino I, Martinez D, Lefrançois T. (2013) Opportunities in diagnostic and vaccine approaches to mitigate potential heartwater spreading and impact on the American mainland. Dev Biol (Basel), doi: 10.1159/000190050. 
+
+22. Vachiéry N, Meyer D, Marcelino I, Alves PM, Raliniaina M, Stachurski F, Adakal H, Sheikboudou C, Aprelon R, Pinarello V, Lefrançois, Dominique Martinez. (2010). Vaccinal approach using inactivated vaccine against heartwater and Ehrlichia ruminantium genetic diversity. Advances in Animal Biosciences, doi: 10.1017/S2040470010000178.
+
+23. Adakal H, Stachurski F, Konkobo M, Zoungrana S, Meyer DF, Pinarello V, Aprelon R, Marcelino I, Alves PM, Martinez D, Lefrancois T, Vachiéry N. (2010). Efficiency of inactivated vaccines against heartwater in Burkina Faso: impact of Ehrlichia ruminantium genetic diversity. Vaccine, doi: 10.1016/j.vaccine.2010.04.087. 
+
+24. Marcelino I, Sousa MFQ, Peixoto C, Amaral AI, Vachiery N, Lefrançois T, Martinez D, Carrondo MJTC, Alves PM. (2010) Development of a Vaccine Candidate Against Heartwater. In: Noll T. (eds) Cells and Culture. ESACT Proceedings, vol 4. Springer, Dordrecht. Doi: 10.1007/978-90-481-3419-9_122
+
+25. Faburay B, Geysen D, Ceesay A, Marcelino I, Alves PM, Taoufik A, Postigo M, Bell-Sakyi L, Jongejan F. (2007) Immunisation of sheep against heartwater in The Gambia using inactivated and attenuated Ehrlichia ruminantium vaccines. Vaccine, doi: 10.1016/j.vaccine.2007.09.002.
+
+26. Marcelino I, Vachiéry N, Amaral AI, Roldão A, Lefrançois T, Carrondo MJ, Alves PM, Martinez D. (2007) Effect of the purification process and the storage conditions on the efficacy of an inactivated vaccine against heartwater. Vaccine, doi: 10.1016/j.vaccine.2007.04.055. 
+
+27. Peixoto C, Marcelino I, Amaral AI, Carrondo MJT, Alves PM. (2007) Purification by membrane technology of an intracellular Ehrlichia ruminantium candidate vaccine against heartwater. Process Biochemistry, doi: 10.1016/j.procbio.2007.04.012
+
+28. Marcelino I, Sousa MFQ, Amaral AI, Peixoto C, Verissimo C, Cunha A, Carrondo MJT, Alves PM.  (2007) Process Development for a Veterinary Vaccine Against Heartwater Using Stirred Tanks. In: Smith R. (eds) Cell Technology for Cell Products. Springer, Dordrecht. Doi: 10.1007/978-1-4020-5476-1_116
+
+29. Marcelino I, Sousa MFQ, Veríssimo C, Cunha AE, Carrondo MJ, Alves PM (2006). Process development for the mass production of Ehrlichia ruminantium. Vaccine, doi: 10.1016/j.vaccine.2005.08.109. 
+
+30. Marcelino I, Veríssimo C, Sousa MF, Carrondo MJ, Alves PM. (2005) Characterization of Ehrlichia ruminantium replication and release kinetics in endothelial cell cultures. Vet Microbiol, doi: 10.1016/j.vetmic.2005.07.012. PMID: 16139967. 
+
+31. Peixoto CC, Marcelino I, Vachiéry N, Bensaid A, Martinez D, Carrondo MJ, Alves PM. (2005) Quantification of Ehrlichia ruminantium by real time PCR. Vet Microbiol, doi: 10.1016/j.vetmic.2005.02.001. 
+
+32. Moreira JL, Miranda PM, Marcelino I, Alves PM, Carrondo MJT. (2003) Culture Methods for Mass Production of Ruminant Endothelial Cells. Fermentation Biotechnology, doi:10.1021/bk-2003-0862.ch008
+
+
+Others research topics:
+33. Matias AA, Serra AT, Silva AC, Perdigão R, Ferreira TB, Marcelino I, Silva S, Coelho AV, Alves PM, Duarte CM. (2010) Portuguese winemaking residues as a potential source of natural anti-adenoviral agents. Int J Food Sci Nutr, doi: 10.3109/09637480903430990. 
+
+34. Carvalhal AV, Marcelino I, Carrondo MJ. (2003) Metabolic changes during cell growth inhibition by p27 overexpression. Appl Microbiol Biotechnol, doi: 10.1007/s00253-003-1385-5. 
+
+35. Carvalhal AV, Santos SS, Coroadinha A, Marcelino I, Carrondo MJT. (2003) Cell Growth Arrest by Nucleotides as a Tool for Improved Production of Biopharmaceuticals. In: Yagasaki K., Miura Y., Hatori M., Nomura Y. (eds) Animal Cell Technology: Basic & Applied Aspects. Animal Cell Technology: Basic & Applied Aspects, vol 13. Springer, Dordrecht. Doi: 10.1007/978-94-017-0726-8_14.
+
+Projects:
+
+YearProject / CovenantFundingThematic2001-2004PROCORDEL - « Vaccin Cowdriose »European Union (8 ACP TPS 040)Heartwater2004-2008Integrated Consortium on Ticks and Tick-borne diseases – ICTTD3European Union (Coordination Action No. 510561).Heartwater2005-2009EPIGENEVACEuropean Union (N°FP6 -003713)Heartwater2011-2014ER_TRANSPORTPortugal (PTDC/CVT/114118/2009)Heartwater2011-2014COST Action « Farm Animal proteomics »European Union (FA1002)Heartwater2014-2015REcProtERStefanik program (bilateral project France- Slovakia)Heartwater2014-2016EPIGENESISEuropean Union (FP7-REGPOT-2012-2013-1)Heartwater2016-2020MALIN - Maladies infectieuses en milieu insulaire tropical (MALIN1 et 2)Union Européenne (FEDER), Région Guadeloupe et les partenairesFree-living amoebae (Axes 1 and 2)2018GUAMAR (Hot spring amoeba sampling campaign in Guadeloupe and Martinique)ANSESFree-living amoebae (Axis 3)2018-2019Amoebae sampling campaign
+ARS GuadeloupeFree-living amoebae (Axis 3)2020Amoebae sampling campaignARS GuadeloupeFree-living amoebae (Axis 3)2021Amoebae sampling campaignARS GuadeloupeFree-living amoebae (Axis 3)2022GwadAmib’O (Study of the diversity and distribution of free-living amoebae and their associated bacteria, within water ecosystems in Guadeloupe.)Free-living amoebae (Axis 2)
+
+
+Collaborations (on FLA thematic):
+* ARS Guadeloupe: Didier ROUX
+* ANSES (Nancy, France): Thierry CHESNOT
+* Université des Antilles (Guadeloupe): Olivier GROS
+* University of Costa Rica (Costa Rica): Lissette RETANA-MOREIRA
+* Duke University School of Medicine (USA): Ashley MOSEMAN
+* University of Georgia (USA): Christopher RICE
+
+Alumni:
+
+1. RAGUEL Manuella (2017). Stage de découverte à la recherche (Master 2 - Stage de 1 mois). Ecole Inter-Régionale d’Infirmiers Anesthésistes Diplômés d’État (IADE), Université des Antilles.
+2. AGOT Samuel (2019). Stage en Entreprise (4 mois). Licence professionnelle Bio-industries et Biotechnologies. Université Paris Sud.
+3. DENAUT MAHDAOUI Alicemène (2019). Stage de découverte à la recherche (Master 2 - Stage de 1 mois). Ecole Inter-Régionale d’Infirmiers Anesthésistes Diplômés d’État (IADE), Université des Antilles.
+4. PLUMASSEAU Nathael (2019). Stage de Master 1 (2 mois) - Sciences, Technologies, Santé. Université Clermont Auvergne - UFR Médecine.
+5. VINGATARAMIN Youri (2020). Stage de Master 2 (6 mois) - Santé en milieu tropical-Guadeloupe. Université des Antilles. 
+6. ALLOUCH Nina (2021). Stage de Master 2 (6 mois) - Institut des sciences et industries du vivant et de l'environnement (AgroParisTech). (Co-encadrement : Alexis DEREEPER, IPG)
+7. DELUMEAU Aurélie (2021). Stage de Master 1 (2mois) - Biologie Santé. Université Aix-Marseille (co-encadrement : Prof. Olivier GROS, Université des Antilles). 
+8. BARRILLIOT Julie (2021). Stage de découverte à la recherche (Master 2 - Stage de 1 mois). Ecole Inter-Régionale d’Infirmiers Anesthésistes Diplômés d’État (IADE), Université des Antilles.
+
+
+3
+
+
