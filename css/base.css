@@ -162,10 +162,14 @@ p {
   margin: 0px 0px 10px 20px;
 }
 
+.div_h2 {
+  border-bottom: 2px solid #216BAD;
+  border-right: 2px solid #216BAD;
+}
+
 h2 {
   display: block;
   color: #005293;
-  font-size: 16pt;
   font-weight: bold;
   margin-block-start: 1em;
   margin-block-end: 1em;
@@ -173,6 +177,13 @@ h2 {
   margin-inline-end: 0px;
   font: "Roboto", Helvetica, Arial, Verdana, sans-serif;
   clear: none;
+  text-align: right;
+  font-size: 24pt;
+  padding: 10px;
+  margin-bottom: 80px;
+  margin-left: 60px;
+  border-bottom: 2px solid #216BAD;
+  border-right: 2px solid #216BAD;
 }
 
 h4 {
@@ -300,4 +311,15 @@ hr.solid {
 
 .text-publi{
   text-align: left;
+}
+
+.vcenter {
+  display:flex;
+  align-items:center;
+}
+
+.hr_team {
+  margin-left: 100px;
+  margin-right: 100px;
+  border-top: 3px solid #bbc0c1;
 }
