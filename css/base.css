@@ -31,6 +31,7 @@
     margin-left: auto;
     margin-right: auto;
     width: 29.7em;
+    background-image: linear-gradient(#fff, #fff, #fff);
 }
 
 #collapsibleNavbar{
